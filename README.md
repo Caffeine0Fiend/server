@@ -1,3 +1,4 @@
+# This is a Fork made for educational purposes
 **For an english version see below.**
 
 Eine Beschreibung des kompletten HandLeVR-Projekts und die nötigen Schritte um die Anwendungen, die aus dem Projekt hervorgegangen sind, zu kompilieren, können auf der [Organisationsseite](https://github.com/HandLeVR) gefunden werden.
